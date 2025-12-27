@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devendra Sonawane</h1>
 <h3 align="center">A passionate BCA student building projects to master programming</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devson1024&label=Profile%20views&color=0e75b6&style=flat" alt="devson1024" />
-</p>
-
 ## 🚀 About Me
 
 I'm a third-year BCA student from Surat, India, passionate about mobile and web development. I love building real-world applications to learn and grow as a developer.
@@ -37,20 +33,6 @@ I'm a third-year BCA student from Surat, India, passionate about mobile and web 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devson1024&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devson1024&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devson1024&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
 ## 🔥 Featured Projects
 
 ### 📱 VedLink - Link Management App
@@ -69,8 +51,7 @@ Powerful video downloading tool
 
 <p align="left">
 <a href="https://github.com/devson1024" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="devson1024" /></a>
-<a href="https://linkedin.com/in/your-profile" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-profile" /></a>
-<a href="https://twitter.com/your-handle" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="your-handle" /></a>
+<a href="https://www.linkedin.com/in/devendra-sonawane-93763636a/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-profile" /></a>
 </p>
 
 ---
