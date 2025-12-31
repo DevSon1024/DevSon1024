@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devendra Sonawane</h1>
+<h1 align="center">Hi, I'm Devendra Sonawane</h1>
 <h3 align="center">A passionate BCA student building projects to master programming</h3>
 
 ## 🚀 About Me
@@ -7,7 +7,6 @@ I'm a third-year BCA student from Surat, India, passionate about mobile and web 
 
 - 🔭 I'm currently working on **VedLink, VedInsta, PixChive & Nosved**
 - 🌱 I'm currently learning **Kotlin, Flutter, Python & React**
-- 💬 Ask me about **Android Development, Mobile UI/UX, API Integration**
 - 📫 How to reach me: **dpsonawane789@gmail.com**
 - ⚡ Fun fact: **I learn by building!**
 
