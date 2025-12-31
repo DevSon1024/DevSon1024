@@ -8,7 +8,7 @@ I'm a third-year BCA student from Surat, India, passionate about mobile and web 
 - 🔭 I'm currently working on **VedLink, VedInsta, PixChive & Nosved**
 - 🌱 I'm currently learning **Kotlin, Flutter, Python & React**
 - 💬 Ask me about **Android Development, Mobile UI/UX, API Integration**
-- 📫 How to reach me: **dpsonawane789@gmail.com** (update with your email)
+- 📫 How to reach me: **dpsonawane789@gmail.com**
 - ⚡ Fun fact: **I learn by building!**
 
 ## 🛠️ Tech Stack
