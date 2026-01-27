@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Devendra Sonawane</h1>
 <h3 align="center">A passionate BCA student building projects to master programming</h3>
 
-## 🚀 About Me
+##  About Me
 
 I'm a third-year BCA student from Surat, India, passionate about mobile and web development. I love building real-world applications to learn and grow as a developer.
 
-- 🔭 I'm currently working on **VedLink, VedInsta, PixChive & Nosved**
-- 🌱 I'm currently learning **Kotlin, Flutter, Python & React**
-- 📫 How to reach me: **dpsonawane789@gmail.com**
-- ⚡ Fun fact: **I learn by building!**
+-  I'm currently working on **VedLink, VedInsta, PixChive & Nosved**
+-  I'm currently learning **Kotlin, Flutter, Python & React**
+-  How to reach me: **dpsonawane789@gmail.com**
+-  Fun fact: **I learn by building!**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -32,18 +32,18 @@ I'm a third-year BCA student from Surat, India, passionate about mobile and web 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 📱 VedLink - Link Management App
+### VedLink - Link Management App
 Smart link management solution built with Kotlin
 
-### 📸 VedInsta - Instagram Downloader
+### VedInsta - Instagram Downloader
 Download Instagram content easily
 
-### 🖼️ PixChive - Image Gallery App
+### PixChive - Image Gallery App
 Beautiful image gallery application
 
-### 🎥 Nosved - Video Downloader
+### Nosved - Video Downloader
 Powerful video downloading tool
 
 ## 🤝 Connect with Me
@@ -55,4 +55,4 @@ Powerful video downloading tool
 
 ---
 
-<p align="center">💙 Thanks for visiting my profile! Feel free to check out my repositories below 👇</p>
+<p align="center">💙 Thanks for visiting my profile! Feel free to check out my repositories below </p>
