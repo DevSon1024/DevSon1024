@@ -5,7 +5,7 @@
 
 I'm a third-year BCA student from Surat, India, passionate about mobile and web development. I love building real-world applications to learn and grow as a developer.
 
--  I'm currently working on **VedLink, VedInsta, PixChive & Nosved**
+-  I'm currently working on **PixChive & Nosved Player**
 -  I'm currently learning **Kotlin, Flutter, Python & React**
 -  How to reach me: **dpsonawane789@gmail.com**
 -  Fun fact: **I learn by building!**
@@ -34,17 +34,17 @@ I'm a third-year BCA student from Surat, India, passionate about mobile and web 
 
 ## Featured Projects
 
-### VedLink - Link Management App
-Smart link management solution built with Kotlin
-
-### VedInsta - Instagram Downloader
-Download Instagram content easily
-
-### PixChive - Image Gallery App
+### [PixChive - Image Gallery App (Prod)](https://pixchive.en.uptodown.com/android)
 Beautiful image gallery application
 
-### Nosved - Video Downloader
-Powerful video downloading tool
+### Nosved Player - Video Downloader (Prod)
+Modern and Smooth Video Player
+
+### Movie Ticket Booking System (Dev)(https://movie-ticket-booking-devson1024.netlify.app/)
+Modern Layout and Design Movie Ticket + Review System
+
+### [TaskFlow - Task Manager (Prod)](https://taskflow-devson1024.netlify.app/)
+Production Ready and Fast Task Management System
 
 ## 🤝 Connect with Me
 
