@@ -40,7 +40,7 @@ Beautiful image gallery application
 ### Nosved Player - Video Downloader (Prod)
 Modern and Smooth Video Player
 
-### Movie Ticket Booking System (Dev)(https://movie-ticket-booking-devson1024.netlify.app/)
+### Movie Ticket Booking System (Dev)[https://movie-ticket-booking-devson1024.netlify.app/]
 Modern Layout and Design Movie Ticket + Review System
 
 ### [TaskFlow - Task Manager (Prod)](https://taskflow-devson1024.netlify.app/)
