@@ -3,7 +3,7 @@
 
 ##  About Me
 
-I'm a third-year BCA student from Surat, India, passionate about mobile and web development. I love building real-world applications to learn and grow as a developer.
+BCA student, passionate about mobile and web development. I love building real-world applications to learn and grow as a developer.
 
 -  I'm currently working on **PixChive & Nosved Player**
 -  I'm currently learning **Kotlin, Flutter, Python & React**
