@@ -35,10 +35,10 @@ Official Portfolio: [Devson1024](https://devson1024.github.io/)
 
 ## Featured Projects
 
-### [PixChive - Image Gallery App (Prod)](https://pixchive.en.uptodown.com/android)
+### [PixChive - Comic + Image Gallery App (Prod)](https://pixchive.en.uptodown.com/android)
 Beautiful image gallery application
 
-### [Nosved Player - Video Downloader (Prod)](https://github.com/DevSon1024/Nosved-Player)
+### [Nosved Player - Video Player (Prod)](https://github.com/DevSon1024/Nosved-Player)
 Modern and Smooth Video Player
 
 ### [Movie Ticket Booking System (Dev)](https://movie-ticket-booking-devson1024.netlify.app/)
