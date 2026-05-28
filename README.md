@@ -1,59 +1,78 @@
-<h1 align="center">Hi, I'm Devendra Sonawane</h1>
-<h3 align="center">A passionate BCA student building projects to master programming</h3>
+# Devendra Sonawane
 
-##  About Me
-
-BCA student, passionate about mobile and web development. I love building real-world applications to learn and grow as a developer.
-
--  I'm currently working on **PixChive & Nosved Player**
--  I'm currently learning **Kotlin, Flutter, Python & React**
--  How to reach me: **dpsonawane789@gmail.com**
--  Fun fact: **I learn by building!**
-
-Official Portfolio: [Devson1024](https://devson1024.github.io/)
-## Tech Stack
-
-### Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frameworks & Technologies
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Tools & Platforms
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## Featured Projects
-
-### [PixChive - Comic + Image Gallery App (Prod)](https://pixchive.en.uptodown.com/android)
-Beautiful image gallery application
-
-### [Nosved Player - Video Player (Prod)](https://github.com/DevSon1024/Nosved-Player)
-Modern and Smooth Video Player
-
-### [Movie Ticket Booking System (Dev)](https://movie-ticket-booking-devson1024.netlify.app/)
-Modern Layout and Design Movie Ticket + Review System
-
-### [TaskFlow - Task Manager (Prod)](https://taskflow-devson1024.netlify.app/)
-Production Ready and Fast Task Management System
-
-## 🤝 Connect with Me
-
-<p align="left">
-<a href="https://github.com/devson1024" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="devson1024" /></a>
-<a href="https://www.linkedin.com/in/devendra-sonawane-93763636a/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-profile" /></a>
-</p>
+Frontend Developer and Android Enthusiast dedicated to building responsive web applications, modular state architectures, and high-performance native utility tools. 
 
 ---
 
-<p align="center">💙 Thanks for visiting my profile! Feel free to check out my repositories below </p>
+### About Me
+
+I am a Developer based in Surat, Gujarat, India. I hold a Bachelor of Computer Applications (BCA) and have worked in professional team environments (including a Frontend Developer Internship) where I engineered UI modules and integrated backend service interfaces. I believe in learning by constructing solutions to real-world challenges.
+
+* 💻 **Currently Engineering:** [PixChive](https://github.com/DevSon1024/PixChive) (Comic/Image reader) & [Nosved Player](https://github.com/DevSon1024/Nosved-Player) (ExoPlayer/FFmpeg utility)
+* 🚀 **Core Focus:** React.js, Next.js, Kotlin, and MERN stack architectures
+* ✉️ **Contact Gateway:** dpsonawane789@gmail.com
+* 🌐 **Portfolio Site:** [devson1024.github.io](https://devson1024.github.io/)
+
+---
+
+### Technical Expertise
+
+#### Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### Frameworks & Libraries
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+#### Databases & Platforms
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+---
+
+### Industry Experience
+
+#### Frontend Developer Intern // CareerSahi Edtech Pvt. Ltd. (3 Months)
+* Developed and optimized reusable web components using React.js and Tailwind CSS.
+* Integrated server endpoints (REST APIs) into client dashboard modules.
+* Improved bundle loading, compatibility, and responsiveness across primary user pathways.
+
+---
+
+### Featured Projects
+
+#### 📱 [Nosved Player](https://github.com/DevSon1024/Nosved-Player)
+* High-performance Android video player leveraging Kotlin, Jetpack Compose, ExoPlayer, and FFmpeg decoding.
+* Includes customizable swipe gestures and hardware-accelerated playback adjustments.
+
+#### 📁 [PixChive Gallery](https://github.com/DevSon1024/PixChive)
+* Native Android gallery and comic/manga reader application featuring hierarchical folder mapping, metadata reading, and rapid local image loading.
+
+#### 🎓 [Smart Institute ERP](https://github.com/DevSon1024/education-erp)
+* Enterprise student dashboard migrated from a legacy .NET codebase to a MERN stack.
+* Optimized with React lazy loading, API rate limiting, debouncing, and Cloudinary image asset pipeline integrations.
+* Live Web portal: [smartinstituteonline.com](https://smartinstituteonline.com)
+
+#### 🎟️ [Movie Ticket Booking System](https://github.com/DevSon1024/movie-booking-platform)
+* BookMyShow inspired platform built with the MERN stack and Redux global state management.
+* Engineered interactive seating arrays and a verified buyer review badging filter.
+* Live Demo: [movie-ticket-booking-devson1024.netlify.app](https://movie-ticket-booking-devson1024.netlify.app/)
+
+---
+
+### Connect
+
+* **LinkedIn:** [devson1024](https://www.linkedin.com/in/devson1024/)
+* **Portfolio Hub:** [devson1024.github.io](https://devson1024.github.io/)
+* **Email:** dpsonawane789@gmail.com
