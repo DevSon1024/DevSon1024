@@ -60,8 +60,9 @@ I am a Developer based in Surat, Gujarat, India. I hold a Bachelor of Computer A
 * Native Android gallery and comic/manga reader application featuring hierarchical folder mapping, metadata reading, and rapid local image loading.
 
 #### 🎓 [Smart Institute ERP](https://github.com/DevSon1024/education-erp)
-* Enterprise student dashboard migrated from a legacy .NET codebase to a MERN stack.
-* Optimized with React lazy loading, API rate limiting, debouncing, and Cloudinary image asset pipeline integrations.
+* Contributed to the migration of an enterprise student dashboard from a legacy .NET codebase to a MERN stack architecture.
+* Implemented frontend optimizations including React lazy loading, API request debouncing, rate limiting strategies, and Cloudinary asset pipeline integrations.
+* Previously involved in active development; current maintenance and feature ownership are managed by another developer/team.
 * Live Web portal: [smartinstituteonline.com](https://smartinstituteonline.com)
 
 #### 🎟️ [Movie Ticket Booking System](https://github.com/DevSon1024/movie-booking-platform)
