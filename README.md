@@ -8,10 +8,10 @@ Frontend Developer and Android Enthusiast dedicated to building responsive web a
 
 I am a Developer based in Surat, Gujarat, India. I hold a Bachelor of Computer Applications (BCA) and have worked in professional team environments (including a Frontend Developer Internship) where I engineered UI modules and integrated backend service interfaces. I believe in learning by constructing solutions to real-world challenges.
 
-* 💻 **Currently Engineering:** [PixChive](https://github.com/DevSon1024/PixChive) (Comic/Image reader) & [Nosved Player](https://github.com/DevSon1024/Nosved-Player) (ExoPlayer/FFmpeg utility)
-* 🚀 **Core Focus:** React.js, Next.js, Kotlin, and MERN stack architectures
-* ✉️ **Contact Gateway:** dpsonawane789@gmail.com
-* 🌐 **Portfolio Site:** [devson1024.github.io](https://devson1024.github.io/)
+* **Currently Engineering:** [PixChive](https://github.com/DevSon1024/PixChive) (Comic/Image reader) & [Nosved Player](https://github.com/DevSon1024/Nosved-Player) (ExoPlayer/FFmpeg utility)
+* **Core Focus:** React.js, Next.js, Kotlin, and MERN stack architectures
+* **Contact Gateway:** dpsonawane789@gmail.com
+* **Portfolio Site:** [devson1024.github.io](https://devson1024.github.io/)
 
 ---
 
@@ -52,20 +52,20 @@ I am a Developer based in Surat, Gujarat, India. I hold a Bachelor of Computer A
 
 ### Featured Projects
 
-#### 📱 [Nosved Player](https://github.com/DevSon1024/Nosved-Player)
+#### [Nosved Player](https://github.com/DevSon1024/Nosved-Player)
 * High-performance Android video player leveraging Kotlin, Jetpack Compose, ExoPlayer, and FFmpeg decoding.
 * Includes customizable swipe gestures and hardware-accelerated playback adjustments.
 
-#### 📁 [PixChive Gallery](https://github.com/DevSon1024/PixChive)
+#### [PixChive Gallery](https://github.com/DevSon1024/PixChive)
 * Native Android gallery and comic/manga reader application featuring hierarchical folder mapping, metadata reading, and rapid local image loading.
 
-#### 🎓 [Smart Institute ERP](https://github.com/DevSon1024/education-erp)
+#### [Smart Institute ERP](https://github.com/DevSon1024/education-erp)
 * Contributed to the migration of an enterprise student dashboard from a legacy .NET codebase to a MERN stack architecture.
 * Implemented frontend optimizations including React lazy loading, API request debouncing, rate limiting strategies, and Cloudinary asset pipeline integrations.
 * Previously involved in active development; current maintenance and feature ownership are managed by another developer/team.
 * Live Web portal: [smartinstituteonline.com](https://smartinstituteonline.com)
 
-#### 🎟️ [Movie Ticket Booking System](https://github.com/DevSon1024/movie-booking-platform)
+#### [Movie Ticket Booking System](https://github.com/DevSon1024/movie-booking-platform)
 * BookMyShow inspired platform built with the MERN stack and Redux global state management.
 * Engineered interactive seating arrays and a verified buyer review badging filter.
 * Live Demo: [movie-ticket-booking-devson1024.netlify.app](https://movie-ticket-booking-devson1024.netlify.app/)
