@@ -1,4 +1,4 @@
-# Devendra Sonawane
+# **`Devendra P Sonawane`**
 
 Frontend Developer and Android Enthusiast dedicated to building responsive web applications, modular state architectures, and high-performance native utility tools. 
 
@@ -6,7 +6,7 @@ Frontend Developer and Android Enthusiast dedicated to building responsive web a
 
 ### About Me
 
-I am a Developer based in Surat, Gujarat, India. I hold a Bachelor of Computer Applications (BCA) and have worked in professional team environments (including a Frontend Developer Internship) where I engineered UI modules and integrated backend service interfaces. I believe in learning by constructing solutions to real-world challenges.
+I am a Developer based in India. believe in learning by constructing solutions to real-world challenges.
 
 * **Currently Engineering:** [PixChive](https://github.com/DevSon1024/PixChive) (Comic/Image reader) & [Nosved Player](https://github.com/DevSon1024/Nosved-Player) (ExoPlayer/FFmpeg utility)
 * **Core Focus:** React.js, Next.js, Kotlin, and MERN stack architectures
@@ -58,6 +58,11 @@ I am a Developer based in Surat, Gujarat, India. I hold a Bachelor of Computer A
 
 #### [PixChive Gallery](https://github.com/DevSon1024/PixChive)
 * Native Android gallery and comic/manga reader application featuring hierarchical folder mapping, metadata reading, and rapid local image loading.
+
+#### [RagaDl](https://github.com/DevSon1024/ragadl-app)
+* Beutiful UI based Online Images Downloader based on local data scraping without any extra Libraries
+* Build with Flutter to Make it Multi Platform but Majorly For Android
+* One of the first mobile application project
 
 #### [Smart Institute ERP](https://github.com/DevSon1024/education-erp)
 * Contributed to the migration of an enterprise student dashboard from a legacy .NET codebase to a MERN stack architecture.
