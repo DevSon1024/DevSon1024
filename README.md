@@ -75,6 +75,12 @@ I am a Developer based in India. believe in learning by constructing solutions t
 * Engineered interactive seating arrays and a verified buyer review badging filter.
 * Live Demo: [movie-ticket-booking-devson1024.netlify.app](https://movie-ticket-booking-devson1024.netlify.app/)
 
+--
+## Github Stats
+![](https://github-readme-stats.shion.dev/api?username=devson1024&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=devson1024&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=devson1024&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
 
 ### Connect
