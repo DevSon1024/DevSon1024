@@ -214,25 +214,12 @@ I am a Software Developer based in **India**, driven by the curiosity to underst
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=devson1024&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Devendra's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=devson1024&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devson1024&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devson1024&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Devendra's Activity Graph" />
+  <img src="https://github-readme-stats.shion.dev/api?username=devson1024&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true" alt="Devendra's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=devson1024&theme=one_dark_pro&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=devson1024&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devson1024&theme=tokyo-night&hide_border=false&area=true" width="95%" alt="Devendra's Activity Graph" />
 </div>
 
 ---
