@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,34&height=220&section=header&text=Devendra%20P%20Sonawane&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20Desktop%20%26%20Mobile%20Utilities&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,34&height=220&section=header&text=Devendra%20P%20Sonawane&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20Developer%20%E2%80%A2%20Flutter%20Desktop%20%E2%80%A2%20Mobile%20Utilities&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://devson1024.github.io/">
